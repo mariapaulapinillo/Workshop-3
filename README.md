@@ -20,3 +20,4 @@ Integra ETL, entrenamiento de modelos de regresión, y procesamiento **en tiempo
 | Visualización | `performance_visuals.py` | Gráficos finales de evaluación |
 
 ---
+Document: https://docs.google.com/document/d/1K7gS8SQY9E84ULTJIWow2Q12j3ytfjlvLENGVKFVsP0/edit?usp=sharing
